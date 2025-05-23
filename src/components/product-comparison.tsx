@@ -115,7 +115,7 @@ export function ProductComparison() {
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
               <h3 className="text-xl font-medium mb-1">iCard Pro</h3>
-              <p className="text-sm text-gray-500 mb-4">轻盈，多彩，强大。</p>
+              <p className="text-sm text-gray-500 mb-4">终极 iCard 体验。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 4799 起
               </p>
@@ -206,7 +206,7 @@ export function ProductComparison() {
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
               <h3 className="text-xl font-medium mb-1">iCard</h3>
-              <p className="text-sm text-gray-500 mb-4">人人都爱。人人都能拥有。</p>
+              <p className="text-sm text-gray-500 mb-4">轻盈，多彩，强大。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 2999 起
               </p>
