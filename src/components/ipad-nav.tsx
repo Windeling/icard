@@ -4,24 +4,24 @@ import Link from "next/link";
 import Image from "next/image";
 import { useState, useEffect } from "react";
 
-const ipadNavItems = [
+const iCardNavItems = [
   {
-    name: "iPad Pro",
+    name: "iCard Plus",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/4276368771.svg"
   },
   {
-    name: "iPad Air",
+    name: "iCard Pro",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/1127930875.svg"
   },
   {
-    name: "iPad",
+    name: "iCard",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/1829770525.svg"
   },
   {
-    name: "iPad mini",
+    name: "iCard mini",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/1123184228.svg"
   },
@@ -41,7 +41,7 @@ const ipadNavItems = [
     icon: "https://ext.same-assets.com/3468220153/2747504011.svg"
   },
   {
-    name: "iPadOS",
+    name: "iCardOS",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/3318717428.svg"
   },
@@ -52,7 +52,7 @@ const ipadNavItems = [
   },
 ];
 
-export function IPadNav() {
+export function iCardNav() {
   const [sticky, setSticky] = useState(false);
 
   useEffect(() => {
@@ -70,7 +70,7 @@ export function IPadNav() {
         <div className="overflow-x-auto">
           <nav className="flex justify-start md:justify-center py-2 min-w-max">
             <ul className="flex space-x-5 md:space-x-8">
-              {ipadNavItems.map((item) => (
+              {iCardNavItems.map((item) => (
                 <li key={item.name} className="text-center">
                   <Link
                     href={item.href}

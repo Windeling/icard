@@ -16,7 +16,7 @@ const footerColumns: FooterColumn[] = [
     links: [
       { label: "商店", href: "#" },
       { label: "Mac", href: "#" },
-      { label: "iPad", href: "#" },
+      { label: "iCard", href: "#" },
       { label: "iPhone", href: "#" },
       { label: "Watch", href: "#" },
       { label: "AirPods", href: "#" },
@@ -35,7 +35,7 @@ const footerColumns: FooterColumn[] = [
     ],
   },
   {
-    title: "Apple 价值观",
+    title: "Windelingの間 价值观",
     links: [
       { label: "无障碍", href: "#" },
       { label: "环境", href: "#" },
@@ -44,14 +44,14 @@ const footerColumns: FooterColumn[] = [
     ],
   },
   {
-    title: "关于 Apple",
+    title: "关于 Windelingの間",
     links: [
       { label: "Newsroom", href: "#" },
       { label: "管理团队", href: "#" },
       { label: "职业机会", href: "#" },
       { label: "投资者", href: "#" },
       { label: "活动", href: "#" },
-      { label: "联系 Apple", href: "#" },
+      { label: "联系 Windelingの間", href: "#" },
     ],
   },
 ];
@@ -65,11 +65,10 @@ export function Footer() {
             * 月供价仅供符合条件的借款人参考，实际付款金额取决于你的最终还款期限、银行实际批准的结果、你的信用记录和其他可能影响实际放款的因素。
           </p>
           <p className="mb-3 leading-relaxed">
-            ① 可回收材料包括相应产品（iPad、Apple Pencil、Magic Keyboard 或 Smart
-            Folio）中的部分回收材料。
+            ① 可回收材料包括相应产品（iCard、iCard挂绳或iCard保护套）中的部分回收材料。
           </p>
           <p className="leading-relaxed">
-            Apple 公司保留随时修改任何产品价格的权利，恕不另行通知。
+            Windelingの間保留随时修改任何产品价格的权利，恕不另行通知。
           </p>
         </div>
 
@@ -95,7 +94,7 @@ export function Footer() {
 
         <div className="border-t border-gray-300 pt-8 flex flex-col md:flex-row md:justify-between">
           <div className="mb-4 md:mb-0">
-            <p className="mb-2">更多选购方式：<Link href="#" className="text-blue-600 hover:underline">查找你附近的 Apple Store 零售店</Link> 或其他<Link href="#" className="text-blue-600 hover:underline">授权经销商</Link></p>
+            <p className="mb-2">更多选购方式：<Link href="#" className="text-blue-600 hover:underline">查找你附近的 Windelingの間</Link> 或其他<Link href="#" className="text-blue-600 hover:underline">授权经销商</Link></p>
             <p>Copyright © 2025 Apple Inc. 保留所有权利。</p>
           </div>
           <div className="flex gap-4">

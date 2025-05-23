@@ -9,23 +9,23 @@ export function ProductComparison() {
     <section className="py-16 bg-white">
       <div className="max-w-7xl mx-auto px-4 md:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {/* iPad Pro */}
+          {/* iCard Plus */}
           <div className="flex flex-col">
             <div className="h-48 bg-[#f5f5f7] rounded-t-xl flex items-center justify-center">
               <div className="relative w-32 h-32">
                 <Image
-                  src="/ipad-pro.jpg"
-                  alt="iPad Pro"
+                  src="/iCard-pro.jpg"
+                  alt="iCard Plus"
                   fill
                   className="object-contain"
                 />
               </div>
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
-              <h3 className="text-xl font-medium mb-1">iPad Pro</h3>
-              <p className="text-sm text-gray-500 mb-4">终极 iPad 体验。</p>
+              <h3 className="text-xl font-medium mb-1">iCard Plus</h3>
+              <p className="text-sm text-gray-500 mb-4">人人都爱。人人都能拥有。</p>
               <p className="text-sm font-medium mb-2">
-                RMB 8999 起
+                RMB 2999 起
               </p>
               <div className="space-y-3 mt-6">
                 <Button className="w-full rounded-full bg-blue-600 hover:bg-blue-700">购买</Button>
@@ -63,7 +63,7 @@ export function ProductComparison() {
                     height={48}
                     className="mb-2"
                   />
-                  <p>1200万像素摄像头</p>
+                  <p>1200万像素高清打印</p>
                   <p className="text-xs text-gray-500">4K ProRes 视频</p>
                 </div>
 
@@ -93,28 +93,28 @@ export function ProductComparison() {
 
                 <div className="flex flex-col items-center">
                   <p>支持</p>
-                  <p className="font-medium">Apple Pencil Pro</p>
+                  <p className="font-medium">iCard挂绳</p>
                   <p>及</p>
-                  <p className="font-medium">Apple Pencil (USB-C)</p>
+                  <p className="font-medium">iCard保护套</p>
                 </div>
               </div>
             </div>
           </div>
 
-          {/* iPad Air */}
+          {/* iCard Pro */}
           <div className="flex flex-col">
             <div className="h-48 bg-[#f5f5f7] rounded-t-xl flex items-center justify-center">
               <div className="relative w-32 h-32">
                 <Image
-                  src="/ipad-air.jpg"
-                  alt="iPad Air"
+                  src="/iCard-air.jpg"
+                  alt="iCard Pro"
                   fill
                   className="object-contain"
                 />
               </div>
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
-              <h3 className="text-xl font-medium mb-1">iPad Air</h3>
+              <h3 className="text-xl font-medium mb-1">iCard Pro</h3>
               <p className="text-sm text-gray-500 mb-4">轻盈，多彩，强大。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 4799 起
@@ -192,20 +192,20 @@ export function ProductComparison() {
             </div>
           </div>
 
-          {/* iPad */}
+          {/* iCard */}
           <div className="flex flex-col">
             <div className="h-48 bg-[#f5f5f7] rounded-t-xl flex items-center justify-center">
               <div className="relative w-32 h-32">
                 <Image
-                  src="/ipad.jpg"
-                  alt="iPad"
+                  src="/iCard.jpg"
+                  alt="iCard"
                   fill
                   className="object-contain"
                 />
               </div>
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
-              <h3 className="text-xl font-medium mb-1">iPad</h3>
+              <h3 className="text-xl font-medium mb-1">iCard</h3>
               <p className="text-sm text-gray-500 mb-4">人人都爱。人人都能拥有。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 2999 起

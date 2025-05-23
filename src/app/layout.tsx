@@ -3,8 +3,8 @@ import "./globals.css";
 import { ClientBody } from "./ClientBody";
 
 export const metadata: Metadata = {
-  title: "iPad - Apple (中国大陆)",
-  description: "来看看 iPad 的精彩世界，这里有 iPad Pro、iPad Air、iPad mini 和 iPad。",
+  title: "iCard - Apple (中国大陆)",
+  description: "来看看 iCard 的精彩世界，这里有 iCard Plus、iCard Pro、iCard mini 和 iCard。",
   icons: {
     icon: "/favicon.ico",
   },

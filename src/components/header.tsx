@@ -6,17 +6,17 @@ import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Menu, X, Search, ShoppingBag } from "lucide-react";
 
 const navItems = [
-  { name: "商店", href: "#" },
-  { name: "Mac", href: "#" },
-  { name: "iPad", href: "#", active: true },
-  { name: "iPhone", href: "#" },
-  { name: "Watch", href: "#" },
-  { name: "Vision", href: "#" },
-  { name: "AirPods", href: "#" },
-  { name: "家居", href: "#" },
-  { name: "娱乐", href: "#" },
-  { name: "配件", href: "#" },
-  { name: "支持", href: "#" },
+  { name: "商店", href: "https://www.apple.com.cn/cn/shop/goto/store" },
+  { name: "Mac", href: "https://www.apple.com.cn/mac/" },
+  { name: "iCard", href: "#", active: true },
+  { name: "iPhone", href: "https://www.apple.com.cn/iphone/" },
+  { name: "Watch", href: "https://www.apple.com.cn/watch/" },
+  { name: "Vision", href: "https://www.apple.com.cn/apple-vision-pro/" },
+  { name: "AirPods", href: "https://www.apple.com.cn/airpods/" },
+  { name: "家居", href: "https://www.apple.com.cn/apple-home/" },
+  { name: "娱乐", href: "https://www.apple.com.cn/entertainment/" },
+  { name: "配件", href: "https://www.apple.com.cn/cn/shop/goto/buy_accessories" },
+  { name: "支持", href: "https://support.apple.com/zh-cn/?cid=gn-ols-home-hp-tab" },
 ];
 
 export function Header() {
