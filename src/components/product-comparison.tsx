@@ -22,8 +22,8 @@ export function ProductComparison() {
               </div>
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
-              <h3 className="text-xl font-medium mb-1">iPad Pro</h3>
-              <p className="text-sm text-gray-500 mb-4">终极 iPad 体验。</p>
+              <h3 className="text-xl font-medium mb-1">iCard Plus</h3>
+              <p className="text-sm text-gray-500 mb-4">人人都爱。人人都能拥有。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 8999 起
               </p>
@@ -93,9 +93,9 @@ export function ProductComparison() {
 
                 <div className="flex flex-col items-center">
                   <p>支持</p>
-                  <p className="font-medium">Apple Pencil Pro</p>
+                  <p className="font-medium">iCard 挂绳</p>
                   <p>及</p>
-                  <p className="font-medium">Apple Pencil (USB-C)</p>
+                  <p className="font-medium">iCard 保护套</p>
                 </div>
               </div>
             </div>
@@ -114,8 +114,8 @@ export function ProductComparison() {
               </div>
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
-              <h3 className="text-xl font-medium mb-1">iPad Air</h3>
-              <p className="text-sm text-gray-500 mb-4">轻盈，多彩，强大。</p>
+              <h3 className="text-xl font-medium mb-1">iCardAir</h3>
+              <p className="text-sm text-gray-500 mb-4">终极 iCard 体验。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 4799 起
               </p>
@@ -184,9 +184,9 @@ export function ProductComparison() {
 
                 <div className="flex flex-col items-center">
                   <p>支持</p>
-                  <p className="font-medium">Apple Pencil Pro</p>
+                  <p className="font-medium">iCard 挂绳</p>
                   <p>及</p>
-                  <p className="font-medium">Apple Pencil (USB-C)</p>
+                  <p className="font-medium">iCard 保护套</p>
                 </div>
               </div>
             </div>
@@ -205,8 +205,8 @@ export function ProductComparison() {
               </div>
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
-              <h3 className="text-xl font-medium mb-1">iPad</h3>
-              <p className="text-sm text-gray-500 mb-4">人人都爱。人人都能拥有。</p>
+              <h3 className="text-xl font-medium mb-1">iCard</h3>
+              <p className="text-sm text-gray-500 mb-4">轻盈，多彩，强大。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 2999 起
               </p>
@@ -260,9 +260,11 @@ export function ProductComparison() {
                   <p className="text-xs text-gray-500">支持 Center Stage</p>
                 </div>
 
-                <div className="flex flex-col items-center">
+                div className="flex flex-col items-center">
                   <p>支持</p>
-                  <p className="font-medium">Apple Pencil (USB-C)</p>
+                  <p className="font-medium">iCard 挂绳</p>
+                  <p>及</p>
+                  <p className="font-medium">iCard 保护套</p>
                 </div>
               </div>
             </div>
