@@ -1,4 +1,4 @@
-# Apple iCard Website Clone TODOs
+# Apple iPad Website Clone TODOs
 
 ## Setup and Structure
 - [x] Initialize Next.js project with shadcn/ui
@@ -22,7 +22,7 @@
 - [x] Add animations and transitions
 
 ## Images and Assets
-- [x] Download and use iCard Plusduct images
+- [x] Download and use iPad product images
 - [x] Add Apple Pencil and Magic Keyboard images
 - [x] Use SVG icons for UI elements
 

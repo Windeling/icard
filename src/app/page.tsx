@@ -1,5 +1,5 @@
 import { Header } from "@/components/header";
-import { iCardNav } from "@/components/iCard-nav";
+import { IPadNav } from "@/components/ipad-nav";
 import { HeroSection } from "@/components/hero-section";
 import { ProductComparison } from "@/components/product-comparison";
 import { AccessoriesSection } from "@/components/accessories-section";
@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col">
       <Header />
-      <iCardNav />
+      <IPadNav />
       <HeroSection />
       <ProductComparison />
       <AccessoriesSection />
