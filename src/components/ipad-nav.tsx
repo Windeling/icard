@@ -33,7 +33,7 @@ const ipadNavItems = [
   {
     name: "Apple Pencil",
     href: "#",
-    icon: "https://ext.same-assets.com/3468220153/1153671809.svg"
+    
   },
   {
     name: "键盘",

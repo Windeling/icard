@@ -9,7 +9,7 @@ export function HeroSection() {
     <section className="relative">
       {/* iPad title section */}
       <div className="text-center pt-8 pb-4">
-        <h1 className="text-5xl md:text-6xl font-semibold mb-2">iPad</h1>
+        <h1 className="text-5xl md:text-6xl font-semibold mb-2">iCard</h1>
         <p className="text-xl text-gray-500 font-normal">
           多彩、强大、好玩。
           <br className="md:hidden" />
@@ -34,7 +34,7 @@ export function HeroSection() {
 
       {/* "来了解更多 iPad" section */}
       <div className="text-center pt-10 pb-8">
-        <h2 className="text-3xl md:text-4xl font-semibold mb-8">来了解更多 iPad</h2>
+        <h2 className="text-3xl md:text-4xl font-semibold mb-8">来了解更多 iCard</h2>
 
         <div className="flex flex-col md:flex-row justify-center gap-4 md:gap-8 max-w-5xl mx-auto px-4">
           {/* Card 1 */}
@@ -66,7 +66,7 @@ export function HeroSection() {
                 />
               </div>
               <div className="absolute bottom-0 left-0 right-0 p-6 text-left">
-                <h3 className="text-xl font-medium">创意性</h3>
+                <h3 className="text-xl font-medium">自由性</h3>
               </div>
             </Link>
           </div>
@@ -83,7 +83,7 @@ export function HeroSection() {
                 />
               </div>
               <div className="absolute bottom-0 left-0 right-0 p-6 text-left">
-                <h3 className="text-xl font-medium">学习</h3>
+                <h3 className="text-xl font-medium">出入</h3>
               </div>
             </Link>
           </div>
@@ -108,8 +108,8 @@ export function HeroSection() {
                 </div>
               </div>
               <div className="pt-4 text-left">
-                <h3 className="font-medium">iPad Pro</h3>
-                <p className="text-sm text-gray-500">功能强大，出众非凡。</p>
+                <h3 className="font-medium">iCard Plus</h3>
+                <p className="text-sm text-gray-500">人人都爱。人人都能拥有。</p>
               </div>
             </div>
 
@@ -125,8 +125,8 @@ export function HeroSection() {
                 </div>
               </div>
               <div className="pt-4 text-left">
-                <h3 className="font-medium">iPad Air</h3>
-                <p className="text-sm text-gray-500">轻盈，多彩，强大。</p>
+                <h3 className="font-medium">iCard Pro</h3>
+                <p className="text-sm text-gray-500">功能强大，出众非凡。</p>
               </div>
             </div>
 
@@ -142,15 +142,15 @@ export function HeroSection() {
                 </div>
               </div>
               <div className="pt-4 text-left">
-                <h3 className="font-medium">iPad</h3>
-                <p className="text-sm text-gray-500">人人都爱。人人都能拥有。</p>
+                <h3 className="font-medium">iCard Studio</h3>
+                <p className="text-sm text-gray-500">轻盈，多彩，强大。</p>
               </div>
             </div>
           </div>
         </div>
 
         <Link href="#" className="inline-block text-blue-600 font-medium text-lg hover:underline">
-          比较所有 iPad 机型 &gt;
+          比较所有 iCard 产品 &gt;
         </Link>
       </div>
     </section>

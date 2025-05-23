@@ -8,7 +8,7 @@ export function AccessoriesSection() {
     <section className="py-16 bg-white">
       <div className="max-w-6xl mx-auto px-4 md:px-8">
         <h2 className="text-3xl md:text-4xl font-semibold text-center mb-10">
-          iPad 左右右臂
+          iCard 左膀右臂
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-16">
@@ -24,9 +24,9 @@ export function AccessoriesSection() {
                   className="mb-4 md:mb-0 md:mr-4"
                 />
                 <div>
-                  <h3 className="text-2xl font-semibold mb-2">Apple Pencil</h3>
+                  <h3 className="text-2xl font-semibold mb-2">iCard 挂绳</h3>
                   <p className="text-gray-600">
-                    无与伦比的书写和绘画体验，让你的创意绽放。
+                    无与伦比的安全和保护体验，让你的iCard免于丢失。
                   </p>
                 </div>
               </div>
@@ -45,7 +45,7 @@ export function AccessoriesSection() {
                   href="#"
                   className="text-blue-600 font-medium hover:underline"
                 >
-                  了解更多关于 Apple Pencil &gt;
+                  了解更多关于 iCard 挂绳 &gt;
                 </Link>
               </div>
             </div>
@@ -63,9 +63,9 @@ export function AccessoriesSection() {
                   className="mb-4 md:mb-0 md:mr-4"
                 />
                 <div>
-                  <h3 className="text-2xl font-semibold mb-2">适用于 iPad 的键盘</h3>
+                  <h3 className="text-2xl font-semibold mb-2">适用于 iCard 保护套</h3>
                   <p className="text-gray-600">
-                    键盘与触控板的完美结合，带来桌面级的工作体验。
+                    挂绳与保护套的完美结合，带来每时每刻的守护体验。
                   </p>
                 </div>
               </div>
@@ -84,7 +84,7 @@ export function AccessoriesSection() {
                   href="#"
                   className="text-blue-600 font-medium hover:underline"
                 >
-                  了解更多关于键盘 &gt;
+                  了解更多关于iCard 保护套 &gt;
                 </Link>
               </div>
             </div>
@@ -92,7 +92,7 @@ export function AccessoriesSection() {
         </div>
 
         <h2 className="text-3xl md:text-4xl font-semibold text-center mb-10">
-          在 Apple 购买 iPad 好处多多
+          在 Windelingの間 购买 iCard 好处多多
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -124,7 +124,7 @@ export function AccessoriesSection() {
             </div>
             <h3 className="text-lg font-medium mb-2">Apple 专属体验</h3>
             <p className="text-sm text-gray-600">
-              个性定制和选购帮助，确保获得最合适的 iPad。
+              个性定制和选购帮助，确保获得最合适的 iCard。
             </p>
           </div>
 
@@ -140,7 +140,7 @@ export function AccessoriesSection() {
             </div>
             <h3 className="text-lg font-medium mb-2">旧机焕新</h3>
             <p className="text-sm text-gray-600">
-              使用 Apple Trade In 换购服务，以旧换新，购新更省钱。
+              使用 Windelingの間 Trade In 换购服务，以旧换新，购新更省钱。
             </p>
           </div>
         </div>

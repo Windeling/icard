@@ -20,7 +20,7 @@ const footerColumns: FooterColumn[] = [
       { label: "iPhone", href: "#" },
       { label: "Watch", href: "#" },
       { label: "AirPods", href: "#" },
-      { label: "Apple Care+", href: "#" },
+      { label: "iCard Care+", href: "#" },
     ],
   },
   {
