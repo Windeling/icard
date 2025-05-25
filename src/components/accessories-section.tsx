@@ -122,7 +122,7 @@ export function AccessoriesSection() {
                 height={28}
               />
             </div>
-            <h3 className="text-lg font-medium mb-2">Apple 专属体验</h3>
+            <h3 className="text-lg font-medium mb-2">专属体验</h3>
             <p className="text-sm text-gray-600">
               个性定制和选购帮助，确保获得最合适的 iCard。
             </p>

@@ -22,8 +22,8 @@ export function ProductComparison() {
               </div>
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
-              <h3 className="text-xl font-medium mb-1">iPad Pro</h3>
-              <p className="text-sm text-gray-500 mb-4">终极 iPad 体验。</p>
+              <h3 className="text-xl font-medium mb-1">iCard Studio</h3>
+              <p className="text-sm text-gray-500 mb-4">终极 iCard 体验。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 8999 起
               </p>
@@ -35,13 +35,13 @@ export function ProductComparison() {
               <div className="mt-8 space-y-4 text-sm">
                 <div className="flex flex-col items-center">
                   <Image
-                    src="https://ext.same-assets.com/3468220153/3514963093.svg"
+                    src="https://ext.same-assets.com/3468220153/2116946807.svg"
                     alt="M4 chip"
                     width={48}
                     height={48}
                     className="mb-2"
                   />
-                  <p>M4 芯片</p>
+                  <p>M3 芯片</p>
                 </div>
 
                 <div className="flex items-center justify-center gap-2">
@@ -63,8 +63,8 @@ export function ProductComparison() {
                     height={48}
                     className="mb-2"
                   />
-                  <p>1200万像素摄像头</p>
-                  <p className="text-xs text-gray-500">4K ProRes 视频</p>
+                  <p>1200万像素点阵打印</p>
+                  <p className="text-xs text-gray-500">4K ProRes 辨析度</p>
                 </div>
 
                 <div className="flex flex-col items-center">
@@ -87,15 +87,15 @@ export function ProductComparison() {
                     height={48}
                     className="mb-2"
                   />
-                  <p>USB-C 接口</p>
+                  <p>Card-B 接口</p>
                   <p className="text-xs text-gray-500">支持 Thunderbolt</p>
                 </div>
 
                 <div className="flex flex-col items-center">
                   <p>支持</p>
-                  <p className="font-medium">Apple Pencil Pro</p>
+                  <p className="font-medium">iCard 挂绳</p>
                   <p>及</p>
-                  <p className="font-medium">Apple Pencil (USB-C)</p>
+                  <p className="font-medium">iCard 保护套</p>
                 </div>
               </div>
             </div>
@@ -114,8 +114,8 @@ export function ProductComparison() {
               </div>
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
-              <h3 className="text-xl font-medium mb-1">iPad Air</h3>
-              <p className="text-sm text-gray-500 mb-4">轻盈，多彩，强大。</p>
+              <h3 className="text-xl font-medium mb-1">iPad Pro</h3>
+              <p className="text-sm text-gray-500 mb-4">终极 iCard 体验。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 4799 起
               </p>
@@ -127,13 +127,13 @@ export function ProductComparison() {
               <div className="mt-8 space-y-4 text-sm">
                 <div className="flex flex-col items-center">
                   <Image
-                    src="https://ext.same-assets.com/3468220153/2116946807.svg"
+                    src="https://ext.same-assets.com/3468220153/3514963093.svg"
                     alt="M3 chip"
                     width={48}
                     height={48}
                     className="mb-2"
                   />
-                  <p>M3 芯片</p>
+                  <p>A17 Pro 芯片</p>
                 </div>
 
                 <div className="flex items-center justify-center gap-2">
@@ -155,7 +155,7 @@ export function ProductComparison() {
                     height={48}
                     className="mb-2"
                   />
-                  <p>1200万像素摄像头</p>
+                  <p>1200万像素点阵打印</p>
                   <p className="text-xs text-gray-500">4K 视频</p>
                 </div>
 
@@ -184,9 +184,9 @@ export function ProductComparison() {
 
                 <div className="flex flex-col items-center">
                   <p>支持</p>
-                  <p className="font-medium">Apple Pencil Pro</p>
+                  <p className="font-medium">iCard 挂绳</p>
                   <p>及</p>
-                  <p className="font-medium">Apple Pencil (USB-C)</p>
+                  <p className="font-medium">iCard 保护套</p>
                 </div>
               </div>
             </div>
@@ -262,7 +262,9 @@ export function ProductComparison() {
 
                 <div className="flex flex-col items-center">
                   <p>支持</p>
-                  <p className="font-medium">Apple Pencil (USB-C)</p>
+                  <p className="font-medium">iCard 挂绳</p>
+                  <p>及</p>
+                  <p className="font-medium">iCard 保护套</p>
                 </div>
               </div>
             </div>
