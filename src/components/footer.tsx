@@ -65,11 +65,10 @@ export function Footer() {
             * 月供价仅供符合条件的借款人参考，实际付款金额取决于你的最终还款期限、银行实际批准的结果、你的信用记录和其他可能影响实际放款的因素。
           </p>
           <p className="mb-3 leading-relaxed">
-            ① 可回收材料包括相应产品（iPad、Apple Pencil、Magic Keyboard 或 Smart
-            Folio）中的部分回收材料。
+            ① 可回收材料包括相应产品（iCard、iCard 挂绳 或 iCard 保护套）中的部分回收材料。
           </p>
           <p className="leading-relaxed">
-            Apple 公司保留随时修改任何产品价格的权利，恕不另行通知。
+            Windelingの間保留随时修改任何产品价格的权利，恕不另行通知。
           </p>
         </div>
 
@@ -95,8 +94,8 @@ export function Footer() {
 
         <div className="border-t border-gray-300 pt-8 flex flex-col md:flex-row md:justify-between">
           <div className="mb-4 md:mb-0">
-            <p className="mb-2">更多选购方式：<Link href="#" className="text-blue-600 hover:underline">查找你附近的 Apple Store 零售店</Link> 或其他<Link href="#" className="text-blue-600 hover:underline">授权经销商</Link></p>
-            <p>Copyright © 2025 Apple Inc. 保留所有权利。</p>
+            <p className="mb-2">更多选购方式：<Link href="#" className="text-blue-600 hover:underline">查找你附近的 Windelingの間</Link> 或其他<Link href="#" className="text-blue-600 hover:underline">授权经销商</Link></p>
+            <p>Copyright © Windelingの間. 保留所有权利。</p>
           </div>
           <div className="flex gap-4">
             <Link href="#" className="hover:text-[#1d1d1f] hover:underline">隐私政策</Link>

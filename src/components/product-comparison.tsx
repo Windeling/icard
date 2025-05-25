@@ -23,7 +23,7 @@ export function ProductComparison() {
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
               <h3 className="text-xl font-medium mb-1">iCard Studio</h3>
-              <p className="text-sm text-gray-500 mb-4">终极 iCard 体验。</p>
+              <p className="text-sm text-gray-500 mb-4">轻盈，多彩，强大。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 8999 起
               </p>
@@ -106,7 +106,7 @@ export function ProductComparison() {
             <div className="h-48 bg-[#f5f5f7] rounded-t-xl flex items-center justify-center">
               <div className="relative w-32 h-32">
                 <Image
-                  src="/ipad-air.jpg"
+                  src="https://tse1-mm.cn.bing.net/th/id/OIP-C.5l_U22VSNQp5eG5GOjqauQHaIB?cb=iwc2&rs=1&pid=ImgDetMain"
                   alt="iPad Air"
                   fill
                   className="object-contain"
@@ -114,7 +114,7 @@ export function ProductComparison() {
               </div>
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
-              <h3 className="text-xl font-medium mb-1">iPad Pro</h3>
+              <h3 className="text-xl font-medium mb-1">iCard Pro</h3>
               <p className="text-sm text-gray-500 mb-4">终极 iCard 体验。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 4799 起
@@ -197,7 +197,7 @@ export function ProductComparison() {
             <div className="h-48 bg-[#f5f5f7] rounded-t-xl flex items-center justify-center">
               <div className="relative w-32 h-32">
                 <Image
-                  src="/ipad.jpg"
+                  src="https://d.uther.cn/2022/03/1648717407-0cdc5921898b917.jpg"
                   alt="iPad"
                   fill
                   className="object-contain"
@@ -205,7 +205,7 @@ export function ProductComparison() {
               </div>
             </div>
             <div className="flex-1 border border-gray-200 rounded-b-xl p-6">
-              <h3 className="text-xl font-medium mb-1">iPad</h3>
+              <h3 className="text-xl font-medium mb-1">iCard Plus</h3>
               <p className="text-sm text-gray-500 mb-4">人人都爱。人人都能拥有。</p>
               <p className="text-sm font-medium mb-2">
                 RMB 2999 起

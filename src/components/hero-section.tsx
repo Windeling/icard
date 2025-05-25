@@ -22,7 +22,7 @@ export function HeroSection() {
         <div className="bg-[#f5f5f7] rounded-3xl overflow-hidden">
           <div className="relative aspect-video w-full max-w-4xl mx-auto">
             <Image
-              src="/hero-ipad.jpg"
+              src="https://p1.ssl.qhmsg.com/t01da55a424f930a725.jpg"
               alt="iPad"
               fill
               priority
@@ -42,7 +42,7 @@ export function HeroSection() {
             <Link href="#">
               <div className="aspect-[3/4] relative">
                 <Image
-                  src="/image-placeholder-1.jpg"
+                  src="https://ts1.tc.mm.bing.net/th/id/R-C.33d937868143012e3cb9d2b94b0859ec?rik=cvCAQAXsPHPavw&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20200801ac%2f254%2fw640h414%2f20200801%2f3a3b-ixeeirz1839906.jpg"
                   alt="Person using iPad"
                   fill
                   className="object-cover"
@@ -59,7 +59,7 @@ export function HeroSection() {
             <Link href="#">
               <div className="aspect-[3/4] relative">
                 <Image
-                  src="/image-placeholder-2.jpg"
+                  src="https://puui.qpic.cn/vpic_cover/z3231xmman9/z3231xmman9_hz.jpg"
                   alt="Cat on iPad"
                   fill
                   className="object-cover"
@@ -100,7 +100,7 @@ export function HeroSection() {
               <div className="bg-[#f5f5f7] rounded-2xl p-4 h-40 md:h-48 flex items-center justify-center">
                 <div className="relative w-28 h-28 md:w-36 md:h-36">
                   <Image
-                    src="/ipad-pro.jpg"
+                    src="https://d.uther.cn/2022/03/1648717407-0cdc5921898b917.jpg"
                     alt="iPad Pro"
                     fill
                     className="object-contain"
@@ -117,7 +117,7 @@ export function HeroSection() {
               <div className="bg-[#f5f5f7] rounded-2xl p-4 h-40 md:h-48 flex items-center justify-center">
                 <div className="relative w-28 h-28 md:w-36 md:h-36">
                   <Image
-                    src="/ipad-air.jpg"
+                    src="https://tse1-mm.cn.bing.net/th/id/OIP-C.5l_U22VSNQp5eG5GOjqauQHaIB?cb=iwc2&rs=1&pid=ImgDetMain"
                     alt="iPad Air"
                     fill
                     className="object-contain"
@@ -134,7 +134,7 @@ export function HeroSection() {
               <div className="bg-[#f5f5f7] rounded-2xl p-4 h-40 md:h-48 flex items-center justify-center">
                 <div className="relative w-28 h-28 md:w-36 md:h-36">
                   <Image
-                    src="/ipad.jpg"
+                    src="https://ext.same-assets.com/3468220153/2116946807.svg"
                     alt="iPad"
                     fill
                     className="object-contain"
