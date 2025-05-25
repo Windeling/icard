@@ -6,22 +6,32 @@ import { useState, useEffect } from "react";
 
 const ipadNavItems = [
   {
-    name: "iPad Pro",
+    name: "iCard Studio",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/4276368771.svg"
   },
   {
-    name: "iPad Air",
+    name: "iCard Pro",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/1127930875.svg"
   },
   {
-    name: "iPad",
+    name: "iCard Plus",
+    href: "#",
+    icon: "https://ext.same-assets.com/3468220153/4276368771.svg"
+  },
+  {
+    name: "iCard",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/1829770525.svg"
   },
   {
-    name: "iPad mini",
+    name: "iCard Mini",
+    href: "#",
+    icon: "https://ext.same-assets.com/3468220153/1829770525.svg"
+  },
+  {
+    name: "iCard SE",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/1829770525.svg"
   },
@@ -31,17 +41,17 @@ const ipadNavItems = [
     icon: "https://ext.same-assets.com/3468220153/3832343559.svg"
   },
   {
-    name: "Apple Pencil",
+    name: "挂绳",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/1829770525.svg"
   },
   {
-    name: "键盘",
+    name: "保护套",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/2747504011.svg"
   },
   {
-    name: "iPadOS",
+    name: "iCardOS",
     href: "#",
     icon: "https://ext.same-assets.com/3468220153/3318717428.svg"
   },
