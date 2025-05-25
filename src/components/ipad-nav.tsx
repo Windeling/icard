@@ -23,7 +23,7 @@ const ipadNavItems = [
   {
     name: "iPad mini",
     href: "#",
-    icon: "https://ext.same-assets.com/3468220153/1127930875.svg"
+    icon: "https://ext.same-assets.com/3468220153/1123184228.svg"
   },
   {
     name: "比较",
@@ -33,7 +33,7 @@ const ipadNavItems = [
   {
     name: "Apple Pencil",
     href: "#",
-    icon: "https://ext.same-assets.com/3468220153/1127930875.svg"
+    icon: "https://ext.same-assets.com/3468220153/1123184228.svg"
   },
   {
     name: "键盘",
