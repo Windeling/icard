@@ -8,7 +8,7 @@ import { Menu, X, Search, ShoppingBag } from "lucide-react";
 const navItems = [
   { name: "商店", href: "#" },
   { name: "Mac", href: "#" },
-  { name: "iCard", href: "#", active: true },
+  { name: "iPad", href: "#", active: true },
   { name: "iPhone", href: "#" },
   { name: "Watch", href: "#" },
   { name: "Vision", href: "#" },
