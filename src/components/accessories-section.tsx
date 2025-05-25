@@ -17,7 +17,7 @@ export function AccessoriesSection() {
             <div className="p-8 md:p-10">
               <div className="flex flex-col md:flex-row items-center md:items-start mb-6">
                 <Image
-                  src="https://ext.same-assets.com/3468220153/1153671809.svg"
+                  src="https://cbu01.alicdn.com/img/ibank/O1CN01v7sPEh1UJfjDyi27J_!!2812532497-0-cib.jpg"
                   alt="Apple Pencil"
                   width={40}
                   height={40}
@@ -33,7 +33,7 @@ export function AccessoriesSection() {
 
               <div className="relative aspect-video md:aspect-[16/9] w-full">
                 <Image
-                  src="/apple-pencil.jpg"
+                  src="https://cbu01.alicdn.com/img/ibank/O1CN01ih2cRm1UJfdHwjn8X_!!2812532497-0-cib.jpg"
                   alt="Apple Pencil with iPad"
                   fill
                   className="object-contain"
@@ -72,7 +72,7 @@ export function AccessoriesSection() {
 
               <div className="relative aspect-video md:aspect-[16/9] w-full">
                 <Image
-                  src="/keyboard.jpg"
+                  src="https://img.alicdn.com/i3/827073576/O1CN01oIhxAc1cHqw8WIvZR_!!827073576.jpg"
                   alt="iPad Keyboard"
                   fill
                   className="object-contain"
