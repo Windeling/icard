@@ -17,7 +17,7 @@ export function AccessoriesSection() {
             <div className="p-8 md:p-10">
               <div className="flex flex-col md:flex-row items-center md:items-start mb-6">
                 <Image
-                  src="https://cbu01.alicdn.com/img/ibank/O1CN01v7sPEh1UJfjDyi27J_!!2812532497-0-cib.jpg"
+                  src="https://www.apple.com.cn/assets-www/en_WW/ipad/tout_table/small/applepencil.vertical.gen3.gen1_elevated_9df8c8c36.svg"
                   alt="Apple Pencil"
                   width={40}
                   height={40}

@@ -43,7 +43,7 @@ const ipadNavItems = [
   {
     name: "挂绳",
     href: "#",
-    icon: "https://ext.same-assets.com/3468220153/1829770525.svg"
+    icon: "https://www.apple.com.cn/assets-www/en_WW/ipad/tout_table/small/applepencil.vertical.gen3.gen1_elevated_9df8c8c36.svg"
   },
   {
     name: "保护套",

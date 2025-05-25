@@ -134,7 +134,7 @@ export function HeroSection() {
               <div className="bg-[#f5f5f7] rounded-2xl p-4 h-40 md:h-48 flex items-center justify-center">
                 <div className="relative w-28 h-28 md:w-36 md:h-36">
                   <Image
-                    src="https://ext.same-assets.com/3468220153/2116946807.svg"
+                    src="https://pic.nximg.cn/file/20181005/26001490_103343858000_2.jpg"
                     alt="iPad"
                     fill
                     className="object-contain"

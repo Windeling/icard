@@ -14,7 +14,7 @@ export function ProductComparison() {
             <div className="h-48 bg-[#f5f5f7] rounded-t-xl flex items-center justify-center">
               <div className="relative w-32 h-32">
                 <Image
-                  src="/ipad-pro.jpg"
+                  src="https://pic.nximg.cn/file/20181005/26001490_103343858000_2.jpg"
                   alt="iPad Pro"
                   fill
                   className="object-contain"
